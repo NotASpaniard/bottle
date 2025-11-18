@@ -1,0 +1,14 @@
+/* Màu pastel chủ đạo */
+
+:root {
+    --primary-pastel: #A8D8EA;
+    /* Xanh pastel nhạt */
+    --secondary-pastel: #FFB6B9;
+    /* Hồng pastel */
+    --accent-pastel: #FFDAC1;
+    /* Cam pastel nhạt */
+    --neutral-pastel: #F5F5F5;
+    /* Trắng kem */
+    --text-pastel: #6D6875;
+    /* Chữ xám pastel */
+}
